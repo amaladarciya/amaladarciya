@@ -41,38 +41,38 @@
 
 <table>
 <tr>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=react" width="55" height="55" alt="React" /><br>React
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" height="55"><br>React
 </td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=javascript" width="55" height="55" alt="JavaScript" /><br>JavaScript
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55"><br>JavaScript
 </td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML" /><br>HTML
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55" height="55"><br>HTML
 </td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS" /><br>CSS
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55" height="55"><br>CSS
 </td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js" /><br>Node.js
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="55" height="55"><br>Node.js
 </td>
 </tr>
 
 <tr>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="MongoDB" /><br>MongoDB
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="55" height="55"><br>MongoDB
 </td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub" /><br>GitHub
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55" height="55"><br>GitHub
 </td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=python" width="55" height="55" alt="Python" /><br>Python
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" height="55"><br>Python
 </td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" alt="C++" /><br>C++
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" width="55" height="55"><br>C++
 </td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git" /><br>Git
+<td align="center" width="120">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55" height="55"><br>Git
 </td>
 </tr>
 </table>
