@@ -80,7 +80,7 @@
 </td>
 
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/git-icon.svg" width="65" height="65"/><br>Git
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65"/><br>Git
 </td>
 </tr>
 </table>
