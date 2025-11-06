@@ -42,41 +42,41 @@
 <table>
 <tr>
 <td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/react.gif" width="60" height="60"/><br>React
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/images/techStack/reactjs.gif" width="60" height="60"><br>React
 </td>
 <td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/js.gif" width="60" height="60"/><br>JavaScript
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/images/techStack/javascript.gif" width="60" height="60"><br>JavaScript
 </td>
 <td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html.gif" width="60" height="60"/><br>HTML
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/images/techStack/html5.gif" width="60" height="60"><br>HTML
 </td>
 <td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/css.gif" width="60" height="60"/><br>CSS
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/images/techStack/css3.gif" width="60" height="60"><br>CSS
 </td>
 <td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/node.gif" width="60" height="60"/><br>Node.js
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/images/techStack/nodejs.gif" width="60" height="60"><br>Node.js
 </td>
 </tr>
 
 <tr>
 <td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" width="60" height="60"/><br>MongoDB
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/images/techStack/mongodb.gif" width="60" height="60"><br>MongoDB
 </td>
 <td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/github.gif" width="60" height="60"/><br>GitHub
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/images/techStack/github.gif" width="60" height="60"><br>GitHub
 </td>
 <td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/python.gif" width="60" height="60"/><br>Python
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/images/techStack/python.gif" width="60" height="60"><br>Python
 </td>
 <td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cpp.gif" width="60" height="60"/><br>C++
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/images/techStack/cpp.gif" width="60" height="60"><br>C++
 </td>
 <td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/git.gif" width="60" height="60"/><br>Git
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/images/techStack/git.gif" width="60" height="60"><br>Git
 </td>
 </tr>
-</table>
 
+</table>
 </div>
 
 <br/>
