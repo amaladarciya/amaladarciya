@@ -42,36 +42,37 @@
 <table>
 <tr>
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /><br>React
+  <img src="https://skillicons.dev/icons?i=react" width="55" height="55" alt="React" /><br>React
 </td>
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /><br>JavaScript
+  <img src="https://skillicons.dev/icons?i=javascript" width="55" height="55" alt="JavaScript" /><br>JavaScript
 </td>
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="65" height="65" /><br>HTML
+  <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML" /><br>HTML
 </td>
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="65" height="65" /><br>CSS
+  <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS" /><br>CSS
 </td>
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" /><br>Node.js
+  <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js" /><br>Node.js
 </td>
 </tr>
+
 <tr>
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="65" height="65" /><br>MongoDB
+  <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="MongoDB" /><br>MongoDB
 </td>
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /><br>GitHub
+  <img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub" /><br>GitHub
 </td>
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /><br>Python
+  <img src="https://skillicons.dev/icons?i=python" width="55" height="55" alt="Python" /><br>Python
 </td>
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" /><br>C++
+  <img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" alt="C++" /><br>C++
 </td>
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="65" height="65" /><br>Git
+  <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git" /><br>Git
 </td>
 </tr>
 </table>
@@ -104,13 +105,14 @@
 <!-- GitHub Stats -->
 ### 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amaladarciya&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amaladarciya&theme=tokyonight" alt="GitHub Streak"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaladarciya&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amaladarciya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amaladarciya&theme=tokyonight" alt="Streak Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaladarciya&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
-
-</div>
 
 <br/>
 
