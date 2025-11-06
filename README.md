@@ -54,7 +54,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55" height="55"><br>CSS
 </td>
 <td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="55" height="55"><br>Node.js
+  <img src="https://miro.medium.com/v2/resize:fit:1100/1*dBzN9WewtGZT3vxEzoHjKw.gif" width="55" height="55"><br>Node.js
 </td>
 </tr>
 
