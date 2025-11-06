@@ -42,7 +42,7 @@
 <table>
 <tr>
 <td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/arsentieva/arsentieva/master/profile-summary-card-output/2077/2-most-commit-language.svg" width="55" height="55"><br>React
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55"><br>React
 </td>
 <td align="center" width="120">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55"><br>JavaScript
