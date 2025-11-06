@@ -41,42 +41,50 @@
 
 <table>
 <tr>
-<td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/images/techStack/reactjs.gif" width="60" height="60"><br>React
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65"/><br>React
 </td>
-<td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/images/techStack/javascript.gif" width="60" height="60"><br>JavaScript
+
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65"/><br>JavaScript
 </td>
-<td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/images/techStack/html5.gif" width="60" height="60"><br>HTML
+
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65"/><br>HTML
 </td>
-<td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/images/techStack/css3.gif" width="60" height="60"><br>CSS
+
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65" height="65"/><br>CSS
 </td>
-<td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/images/techStack/nodejs.gif" width="60" height="60"><br>Node.js
+
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65" height="65"/><br>Node.js
 </td>
 </tr>
 
 <tr>
-<td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/images/techStack/mongodb.gif" width="60" height="60"><br>MongoDB
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" height="65"/><br>MongoDB
 </td>
-<td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/images/techStack/github.gif" width="60" height="60"><br>GitHub
+
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65" height="65"/><br>GitHub
 </td>
-<td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/images/techStack/python.gif" width="60" height="60"><br>Python
+
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65"/><br>Python
 </td>
-<td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/images/techStack/cpp.gif" width="60" height="60"><br>C++
+
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65"/><br>C++
 </td>
-<td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/src/images/techStack/git.gif" width="60" height="60"><br>Git
+
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/git-icon.svg" width="65" height="65"/><br>Git
 </td>
 </tr>
-
 </table>
+
 </div>
 
 <br/>
